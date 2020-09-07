@@ -15,10 +15,14 @@ terdapat 3 attibut dan 3 method
 <img src="img/ms.jpg">
 
 
-class
+<h4>class </h4>
+
+
 <img src="img/cms.jpg">
 
+
 <h4>penjelasan </h4>
+
 
 di class Motor sport memliki 4 atribut yang 3 i antaranya diambil dari
 clas motor yang merupakan class induk
@@ -28,7 +32,10 @@ clas motor yang merupakan class induk
 
 <img src="img/mm.jpg">
 
-class
+
+<h4>class </h4>
+
+
 <img src="img/cmm.jpg">
 
 <h4>penjelasan </h4>
