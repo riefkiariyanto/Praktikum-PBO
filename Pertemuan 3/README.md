@@ -1,3 +1,0 @@
-# praktikum Jobsheet 3
-
-
