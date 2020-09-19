@@ -44,6 +44,22 @@ Class Motor Matic Memiliki 4 atribut yang 3 di antaranya diambil dari
 class motor yang merupakan class induk
 
 
+class TV
+
+<img src=img/tv.jpg>
+
+<br>
+
+<img src="img/ctv.jpg">
+ <br>
+class Laptop
+
+
+<img src=img/lt.jpg>
+<br>
+
+<img src="img/cl.jpg">
+
 # Main
 
 <img src="img/cmain.jpg">

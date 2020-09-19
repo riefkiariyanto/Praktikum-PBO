@@ -14,10 +14,9 @@ class mahasiswa
 
 jawab no 3
 
-<img src="img/persegi1.jpg"/>
-
+<img src="img/2.jpg"/>
 
 
 class persegi
 
-<img src="img/persegi.jpg">
+<img src="img/classpersegi.jpg">
