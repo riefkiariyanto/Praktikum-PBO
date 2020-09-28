@@ -1,4 +1,3 @@
-<img src="tugas diagram.jpeg">
 # Tugas
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam
@@ -38,3 +37,4 @@ Output
 
 
 <img src="img/out.png">
+
